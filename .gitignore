@@ -1,0 +1,13 @@
+# shapefiles
+*.shp
+*.shp.xml
+*.xml
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.fbn
+*.fbx
+*.CPG
+*.cpg
