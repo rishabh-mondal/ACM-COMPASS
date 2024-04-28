@@ -1,3 +1,8 @@
+*.pdf
+*.kml
+*.pth
+
+
 # shapefiles
 *.shp
 *.shp.xml
@@ -11,3 +16,19 @@
 *.fbx
 *.CPG
 *.cpg
+
+# rasters
+*.tif
+*.tiff
+*.img
+*.ris
+*.nc
+
+# images
+*.png
+*.jpg
+
+# data
+*.txt
+*.csv
+*.zip
